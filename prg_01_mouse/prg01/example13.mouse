@@ -1,0 +1,13 @@
+"My first program with Mouse programming Language: Multiples of X "
+X "Enter Number: " ?=
+X.
+"The first 10 multiples of " !
+" are : "
+X.
+N 1 =
+( N . X . * ! " "
+  10 N . - ^
+  N N . 1 + = )
+$$
+
+
